@@ -99,8 +99,11 @@ right-div {
   background-position: left;
 }
 .experience {
+  text-align: center;
+  margin-bottom: 20px;
   margin-bottom: 10px;
   font-weight: 700px;
+  color: orange;
 }
 .card {
   display: flex;
